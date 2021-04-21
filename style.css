@@ -1,0 +1,39 @@
+.image {
+    height: 170px;
+    width: 170px;
+}
+
+.stripe {
+    width: 680px;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+#background {
+    background-color: black;
+    color: red;
+    height: 780px;
+    width: 720px;
+    padding: 20px;
+
+}
+
+#background p {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#noir {
+    background-color: #221E1F;
+    display: flex;
+}
+
+#whiteStripe {
+    background-color: #FFFFFF;
+    display:flex
+}
+
+#credit {
+    text-align: center;
+    font-size: 1.25rem;
+}
