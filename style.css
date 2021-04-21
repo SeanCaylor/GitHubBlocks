@@ -7,6 +7,7 @@
     width: 680px;
     padding: 20px;
     justify-content: space-around;
+    margin-bottom: 10px;
 }
 
 #background {
@@ -30,7 +31,16 @@
 
 #whiteStripe {
     background-color: #FFFFFF;
-    display:flex
+    display:flex;
+    margin-top: 10px;
+}
+
+#daftPunkGrey {
+    background-color: red;
+    background-image: linear-gradient(rgb(226, 124, 99), rgba(48, 48, 248, 0.795));
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
 }
 
 #credit {
